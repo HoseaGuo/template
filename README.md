@@ -29,4 +29,4 @@ template create <app-name> --repository <repository> [--force]
 --force or -f
 ```
 
-是否覆盖源来的文件。
+是否覆盖源来的文件，默认用户选择。
