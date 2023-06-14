@@ -1,3 +1,5 @@
+用来从git仓库上下载文件到本地的工具库，可以全局安装使用，用来下载自己的脚手架代码。
+
 ## Installation
 ```
 npm install @hoseaguo/template -g
