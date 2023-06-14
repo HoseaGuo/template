@@ -21,7 +21,7 @@ template create <app-name> --repository <repository> [--force]
 `--repository <repository>` or `-r <repository>`
 
 
-所要下载仓库代码的仓库简短地址，必须要，具体可以参考：
+所要下载仓库代码的仓库简短地址，必须有，具体可以参考：
 [download-git-repo#repository](https://www.npmjs.com/package/download-git-repo#repository)
 
 
