@@ -7,8 +7,8 @@ npm install @hoseaguo/template -g
 ```
 template create projectName --repository ownerName/repoName
 ```
-## Download a template
 
+## Download a template
 ```
 template create <app-name> --repository <repository> [--force]
 ```
