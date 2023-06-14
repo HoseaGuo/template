@@ -1,6 +1,6 @@
 {
   "name": "@hoseaguo/template",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Download a project template from git",
   "main": "index.js",
   "bin": {
