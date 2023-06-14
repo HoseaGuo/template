@@ -8,6 +8,10 @@ npm install @hoseaguo/template -g
 ## Example
 ```
 template create projectName --repository ownerName/repoName
+
+template create projectName -r ownerName/repoName#tagName
+
+template create projectName -r ownerName/repoName#branchName
 ```
 
 ## Usage
