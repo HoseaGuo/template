@@ -1,4 +1,4 @@
-## installation
+## Installation
 ```
 npm install @hoseaguo/template -g
 ```
@@ -7,8 +7,8 @@ npm install @hoseaguo/template -g
 ```bash
 template create projectName --repository ownerName/repoName
 ```
-## API
-### 命令行
+## Download a template
+
 ```
 template create <app-name> --repository <repository> [--force]
 ```
