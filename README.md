@@ -17,9 +17,9 @@ template create <app-name> --repository <repository> [--force]
 
 - ### repository
 
-```
---repository <repository>` or `-r <repository>
-```
+
+`--repository <repository>` or `-r <repository>`
+
 
 所要下载仓库代码的仓库简短地址，具体可以参考：
 [download-git-repo#repository](https://www.npmjs.com/package/download-git-repo#repository)
@@ -27,8 +27,6 @@ template create <app-name> --repository <repository> [--force]
 
 - ### force
 
-```
---force or -f
-```
+`--force` or `-f`
 
 是否覆盖源来的文件，默认用户选择。
