@@ -4,7 +4,7 @@ npm install @hoseaguo/template -g
 ```
 
 ## Example
-```bash
+```
 template create projectName --repository ownerName/repoName
 ```
 ## Download a template
